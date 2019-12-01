@@ -8,3 +8,6 @@ This is a simple mini_project to demonstrate the use of Github API with vanilla 
   <li>Allowing to search a specified user from the list of users </li>
 </ol>
 <h2><strong>ScreenShots : </strong></h2>
+<img src="https://github.com/parthpanchal123/Github-Api-Demo/blob/master/Screenshots/img1.PNG" alt="First image">
+<img src="https://github.com/parthpanchal123/Github-Api-Demo/blob/master/Screenshots/img2.png" alt="Second image">
+<img src="https://github.com/parthpanchal123/Github-Api-Demo/blob/master/Screenshots/img3.png" alt="Third image">
