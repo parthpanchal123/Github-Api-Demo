@@ -1,5 +1,5 @@
 # Github-Api-Demo
-This is a simple mini_project to demonstrate the use of Github API with vanilla javascript , html5 and css3 .
+This is a simple mini_project to demonstrate the use of Github API with vanilla javascript , html5 and css3 .<br>
 Bootstrap Theme used : <a href='https://bootswatch.com/cyborg/'>Cyborg theme</a>
 
 <h2><strong>Functionalities : </strong></h2>
